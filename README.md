@@ -23,7 +23,7 @@
 ### 📊 Статистика
 
 <p align="center">
-  <img src="(https://t.me/Shrelc)" alt="GitHub Stats"/>
+  <img src="(https://github.com/DianaGanicheva1))" alt="GitHub Stats"/>
 </p>
 
 ---
